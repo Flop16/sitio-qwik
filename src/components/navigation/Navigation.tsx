@@ -1,6 +1,6 @@
 import { $, component$, useOnWindow, useStore, useStyles$ } from '@builder.io/qwik';
 import { IconClose, IconMenu } from '../starter/icons';
-import style from './Navigation.css'
+import style from './Navigation.css?inline'
 
 export const Navigation = component$(() => {
   useStyles$(style);
