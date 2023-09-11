@@ -33,6 +33,11 @@
     top: 2.35rem;
     color: var(--color-light);
 }
+
+a {
+    text-decoration: none;
+    color: var(--color-text);
+  }
   
 /* // all the media queries */ 
   
