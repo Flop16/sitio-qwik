@@ -39,7 +39,6 @@ a {
     color: var(--color-text);
   }
   
-/* // all the media queries */ 
   
 
 @media screen and (min-width: 768px) {

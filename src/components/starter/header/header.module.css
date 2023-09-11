@@ -62,7 +62,7 @@ a {
   color: rgb(83, 10, 72);
 }
 
-@media (min-width: 450px) {
+@media (min-width: 100px) {
   .header li {
     display: inline-block;
   }
